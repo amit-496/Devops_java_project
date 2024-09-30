@@ -152,7 +152,6 @@ Azure Monitor can integrate with **Azure Security Center** and **Azure Policy** 
 
 Both tools help ensure that your system not only performs well but also adheres to security and compliance best practices.
 
----
 
 ### **7. Cost Optimization**
 
@@ -175,11 +174,7 @@ These capabilities provide a more proactive approach to monitoring, helping prev
 
 ---
 
-## Next Steps
+## Resources
 
-1. **Review Metrics**: Regularly review CPU, memory, and disk metrics in Azure Monitor.
-2. **Optimize Costs**: Monitor data usage and adjust log retention policies to manage costs effectively.
-3. **Advanced Monitoring**: Consider using custom queries in Log Analytics for more detailed analysis.
-4. **Explore Integrations**: Enhance your incident management by connecting with third-party tools.
-
-For more information, visit the official [Azure Monitor Documentation](https://docs.microsoft.com/en-us/azure/azure-monitor/) or use the [Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) to estimate costs.
+- [Azure Monitor Documentation](https://docs.microsoft.com/en-us/azure/azure-monitor/)
+- [Pricing Calculator for Azure Monitor](https://azure.microsoft.com/en-us/pricing/calculator/)
